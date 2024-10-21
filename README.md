@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -38,3 +39,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 =======
 # headway
 >>>>>>> adc30f1539c079b545bd5936d0c6bfe22f59e332
+=======
+# headwayy.github.io
+>>>>>>> fc034a39733b88568ed210b354e4987da7cc6abc
