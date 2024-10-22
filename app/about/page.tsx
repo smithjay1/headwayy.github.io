@@ -78,7 +78,7 @@ export default function AboutUs() {
                 </p>
               </div>
               <div className="relative h-64 md:h-full">
-                <images
+                <Images
                   src="/placeholder.svg?height=400&width=600"
                   alt="Headway MFB Team"
                   className="absolute inset-0 w-full h-full object-cover rounded-lg shadow-lg"
