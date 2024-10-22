@@ -61,7 +61,7 @@ export default function Contact() {
         <section className="py-20 bg-green-200 text-black">
           <div className="container mx-auto px-4">
             <h1 className="text-4xl md:text-5xl font-bold mb-4 text-center">Contact Us</h1>
-            <p className="text-xl mb-8 text-center">We're here to help. Reach out to us for any inquiries or support.</p>
+            <p className="text-xl mb-8 text-center">We&apos;re here to help. Reach out to us for any inquiries or support.</p>
           </div>
         </section>
 
