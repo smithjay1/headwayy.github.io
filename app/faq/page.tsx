@@ -188,6 +188,7 @@
 import { useState } from 'react';
 import { Menu, X, Phone, Mail, MapPin, Facebook, Twitter, Instagram, ChevronDown, ChevronUp } from 'lucide-react';
 import Link from 'next/link';
+import { MapPin } from 'react-icons/fa';
 
 export default function FAQ() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
