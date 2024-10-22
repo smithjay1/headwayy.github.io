@@ -2,6 +2,7 @@
 import { useState } from 'react'
 import { Menu, X, ChevronRight, Phone, Mail, MapPin, Facebook, Twitter, Instagram, Users, Target, Award } from 'lucide-react'
 import Link from 'next/link'
+import Image from 'next/image'
 
 export default function AboutUs() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
